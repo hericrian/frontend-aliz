@@ -1,0 +1,44 @@
+
+> aliz-marketplace@0.1.0 dev
+> vite --host 127.0.0.1
+
+Port 5173 is in use, trying another one...
+Port 5174 is in use, trying another one...
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m548[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5175[22m/[39m
+[2m00:18:41[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home/Home.jsx[22m
+[2m00:19:30[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home/Home.jsx[22m
+[2m00:19:37[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css[22m
+[2m00:20:55[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css[22m
+[2m00:23:48[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home/Home.jsx[22m
+[2m00:24:19[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css[22m
+[2m00:25:39[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/AppRoutes.jsx[22m
+[2m00:25:45[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home/Home.jsx[22m
+[2m00:26:18[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css[22m
+[2m00:29:02[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home/Home.jsx[22m
+[2m00:31:23[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home/Home.jsx[22m
+[2m00:42:29[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css[22m
+[2m00:45:41[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css[22m
+[2m00:48:19[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Auth/AuthPage.jsx[22m
+[2m00:49:20[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Auth/AuthPage.jsx[22m
+[2m00:50:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home/Home.jsx[22m
+[2m00:50:18[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home/Home.jsx[22m
+[2m00:50:34[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css[22m
+[2m00:51:18[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css[22m
+[2m00:51:53[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Auth/AuthPage.jsx[22m
+[2m00:53:01[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/home/BadgesBar.jsx[22m
+[2m00:53:01[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/components/home/BadgesBar.module.css[22m
+[2m00:53:01[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/home/Hero.jsx[22m
+[2m00:53:01[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/components/home/Hero.module.css[22m
+[2m00:53:01[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/home/PromoSection.jsx[22m
+[2m00:53:01[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/components/home/PromoSection.module.css[22m
+[2m00:53:01[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Footer/Footer.jsx[22m
+[2m00:53:01[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/components/layout/Footer/Footer.module.css[22m
+[2m00:53:01[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Header/Header.jsx[22m
+[2m00:53:01[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/components/layout/Header/Header.module.css[22m
+[2m00:53:01[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/product/ProductCard.jsx[22m
+[2m00:53:01[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/components/product/ProductCard.module.css[22m
+[2m00:53:01[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/product/ProductSection.jsx[22m
+[2m00:53:01[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/components/product/ProductSection.module.css[22m
